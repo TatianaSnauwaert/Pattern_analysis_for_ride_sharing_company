@@ -9,7 +9,7 @@ Prepare a report for Zuber, a new ride-sharing company that's launching in Chica
 
 - SQL part of the project (Pattern_analysis_for_ride_sharing_company_part_1.pdf);
 - The project's jupyter notebook (Pattern_analysis_for_ride_sharing_company_part_2.ipynb);
-- A pdf format of the notebook (Pattern_analysis_for_ride_sharing_company.pdf);
+- A pdf format of the notebook (Pattern_analysis_for_ride_sharing_company_part_1.pdf);
 - Input data (project_sql_result_01.csv, project_sql_result_04.csv, project_sql_result_07.csv);
 - Project description from Practicum (SQL_project_description.pdf).
 
