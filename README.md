@@ -26,7 +26,7 @@ Prepare a report for Zuber, a new ride-sharing company that's launching in Chica
 
 2. The market of taxi services is quite competitive - we see almost a 100 different companies. The biggest company (in terms of amounts of trips) is "Flash Cab" - it occupies almost 15% of the market. All the larger companies together account for almost 75% of the market, while smaller companies (each occupying less than 1%) together account for almost a quarter of the market.
 
-3. Next step was **statistical hypotheses testing**. We tested the following hypothesis: The average duration of rides from Loop neighborhood to O'Hare International Airport changes on rainy Saturdays.
+Next step was **statistical hypotheses testing**. We tested the following hypothesis: The average duration of rides from Loop neighborhood to O'Hare International Airport changes on rainy Saturdays.
 
 Based on statistical tests, we have rejected the null - the average duration of a trip with "Good" weather_conditions is not the same as the average duration of a trip with "Bad" weather_conditions.
 
